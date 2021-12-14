@@ -2,7 +2,7 @@
 
 async function getJWT () {
   try {
-    let {value: jwtToken} = await chrome.cookies.get({
+    let {value: jwtToken} = await browser.cookies.get({
       name: 'knockoutJwt',
       url: 'https://api.knockout.chat'
     })
