@@ -1,5 +1,5 @@
 {
-  "name": "Knocky QR login - Firefox",
+  "name": "Knocky QR login - FF",
   "description": "A small extension that allows knocky users to login via scanning a QR code.",
   "version": "1.0",
   "manifest_version": 2,
